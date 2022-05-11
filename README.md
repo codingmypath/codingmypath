@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codingmypath
+- 👋 Hi, I’m Edgar Herrera
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on many projects
