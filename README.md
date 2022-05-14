@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Edgar Herrera</h1>
-<h3 align="center">A passionate software engineer from California</h3>
+<h3 align="center">A passionate software engineer from Southern California</h3>
 
 <p align="center"> <a href="https://twitter.com/codingmypath" target="blank"><img src="https://img.shields.io/twitter/follow/codingmypath?logo=twitter&style=for-the-badge" alt="codingmypath" /></a> </p>
 
