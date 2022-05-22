@@ -15,14 +15,14 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Hello, my name is Edgar Herrera. I am a software engineer based in Southern California.</p>
 
 <h1 align="center">Connect with me:</h1>
-<p align="center"> <a href="https://twitter.com/codingmypath" target="blank"><img src="https://img.shields.io/twitter/follow/codingmypath?logo=twitter&style=for-the-badge" alt="codingmypath" /></a> </p>
+
 
 <p align="center">
 <a href="https://twitter.com/codingmypath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingmypath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eherrera09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eherrera09" height="30" width="40" /></a>
 <a href="https://instagram.com/codingmypath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingmypath" height="30" width="40" /></a>
 </p>
-
+<p align="center"> <a href="https://twitter.com/codingmypath" target="blank"><img src="https://img.shields.io/twitter/follow/codingmypath?logo=twitter&style=for-the-badge" alt="codingmypath" /></a> </p>
 <h1 align="center">Projects</h1>
 
 
