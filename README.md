@@ -8,7 +8,7 @@
 codingmypath/codingmypath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="center" src="https://github.com/codingmypath/README-Assets/blob/main/Edgar_Herrera.png" alt="Edgar Herrera - Software Engineer Header"/>
+<img align="center" src="https://github.com/codingmypath/README-Assets/blob/main/Edgar_banner1.png" alt="Edgar Herrera - Software Engineer Header"/>
 
 
 
