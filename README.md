@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
       <h3 align="center">Calculator App</h3>
         <br />
       <a target="_blank" href="">
-            <img src="" width="100%"  alt=""/>
+            <img src="https://github.com/codingmypath/README-Assets/blob/main/calculator-gif-maker.gif" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
