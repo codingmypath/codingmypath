@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
         <p><strong></strong></p>
     </td>
   </tr>
-  
+  <!--
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"></h3>
@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
           <img src="" width="100%" alt=""/>
         </a>
       <br />
-        <p align="center">
+    <p align="center">
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
       </p>
         <p><strong></strong></p>
     </td>
-  </tr>
+  </tr> --!>
 </table>
 
 
