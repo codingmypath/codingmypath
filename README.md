@@ -48,25 +48,26 @@ You can click the Preview link to take a look at your changes.
         <p><strong></strong></p>
     </td>
    
-<!--     <td width="50%" valign="top">
-      <h3 align="center">Calculator App</h3>
+   <td width="50%" valign="top">
+      <h3 align="center">Peanut Gallery App</h3>
         <br />
       <a target="_blank" href="">
-            <img src="https://github.com/codingmypath/README-Assets/blob/main/calculator-gif-maker.gif" width="100%"  alt=""/>
+            <img src="https://github.com/codingmypath/README-Assets/blob/main/Peanut-Gallery-gif-maker.gif" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/codingmypath/calculator.git" target="_blank">
+  <!-- GitHub Logo button link -->     
+  <a href="https://github.com/codingmypath/peanut-gallery" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://peanut-gallery.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=221dbd&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></strong></p>
-    </td> -->
+    </td> 
   </tr>
+  
   <!--
   <tr>
     <td width="50%" valign="top">
