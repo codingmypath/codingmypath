@@ -30,15 +30,15 @@ You can click the Preview link to take a look at your changes.
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Bible Verse API App</h3>
+      <h3 align="center">Animo App</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="https://github.com/codingmypath/README-Assets/blob/main/ezgif.com-gif-maker.gif" width="100%" alt="Bible verse website gif"/>
+            <img src="https://github.com/codingmypath/README-Assets/blob/main/animo-gif.gif" width="100%" alt="Bible verse website gif"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/codingmypath/bible-api.git" target="_blank">
+  <a href="https://github.com/codingmypath/mvc-animo.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>  
 <!--   <a href="" target="_blank">
@@ -49,18 +49,18 @@ You can click the Preview link to take a look at your changes.
     </td>
    
    <td width="50%" valign="top">
-      <h3 align="center">Peanut Gallery App</h3>
+      <h3 align="center">Restaurant Roulette App</h3>
         <br />
       <a target="_blank" href="">
-            <img src="https://github.com/codingmypath/README-Assets/blob/main/Peanut-Gallery-gif-maker.gif" width="100%"  alt=""/>
+            <img src="https://github.com/codingmypath/README-Assets/blob/main/restaurant-roulette-gif.gif" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
   <!-- GitHub Logo button link -->     
-  <a href="https://github.com/codingmypath/peanut-gallery" target="_blank">
+  <a href="https://github.com/codingmypath/restaurant_roulette.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://peanut-gallery.onrender.com/" target="_blank">
+  <a href="https://restaurantroulette.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=221dbd&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -68,44 +68,44 @@ You can click the Preview link to take a look at your changes.
     </td> 
   </tr>
   
-  <!--
+ 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">Peanut Gallery</h3>
       <br />
         <a target="_blank" href="">
-          <img src="" width="100%" alt=""/>
+          <img src="https://github.com/codingmypath/README-Assets/blob/main/Peanut-Gallery-gif-maker.gif" width="100%" alt=""/>
         </a>
       <br />
     <p align="center">
-  <a href="" target="_blank">
+  <a href="https://github.com/codingmypath/peanut-gallery.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://peanut-gallery.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=221dbd&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></strong> </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">Bible Verse API</h3>
         <br />
         <a target="_blank" href="">
-          <img src="" width="100%" alt=""/>
+          <img src="https://github.com/codingmypath/README-Assets/blob/main/ezgif.com-gif-maker.gif" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/codingmypath/bible-api.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+<!--   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=221dbd&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  </a> -->
       </p>
         <p><strong></strong></p>
     </td>
-  </tr> --!>
+  </tr> 
 </table>
 
 
