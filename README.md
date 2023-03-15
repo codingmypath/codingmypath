@@ -32,8 +32,8 @@ You can click the Preview link to take a look at your changes.
     <td width="50%" valign="top">
       <h3 align="center">Animo App</h3>
         <br />
-        <a target="_blank" href="#">
-            <img src="https://github.com/codingmypath/README-Assets/blob/main/animo-gif.gif" width="100%" alt="Bible verse website gif"/>
+        <a target="_blank" href="https://github.com/codingmypath/mvc-animo.git">
+            <img src="https://github.com/codingmypath/README-Assets/blob/main/animo-gif.gif" width="100%" alt="Animo website gif"/>
         </a>
         <br />
         <p align="center">
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
    <td width="50%" valign="top">
       <h3 align="center">Restaurant Roulette App</h3>
         <br />
-      <a target="_blank" href="">
+      <a target="_blank" href="https://restaurantroulette.onrender.com/">
             <img src="https://github.com/codingmypath/README-Assets/blob/main/restaurant-roulette-gif.gif" width="100%"  alt=""/>
         </a>
         <br />
@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
     <td width="50%" valign="top">
       <h3 align="center">Peanut Gallery</h3>
       <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://peanut-gallery.onrender.com">
           <img src="https://github.com/codingmypath/README-Assets/blob/main/Peanut-Gallery-gif-maker.gif" width="100%" alt=""/>
         </a>
       <br />
@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
     <td width="50%" valign="top">
       <h3 align="center">Bible Verse API</h3>
         <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://github.com/codingmypath/bible-api.git">
           <img src="https://github.com/codingmypath/README-Assets/blob/main/ezgif.com-gif-maker.gif" width="100%" alt=""/>
         </a>
         <br />
