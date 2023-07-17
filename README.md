@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">Hello, my name is Edgar Herrera. I am a software engineer based in Southern California.</p>
+<p align="center">Hello, my name is Edgar Herrera. I am a software engineer based in California.</p>
 
 <h1 align="center">Connect with me:</h1>
 
