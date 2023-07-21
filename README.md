@@ -41,9 +41,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/codingmypath/mvc-animo.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>  
-<!--   <a href="" target="_blank">
+  <a href="https://animo-app.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=221dbd&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
+  </a>
       </p>
         <p><strong></strong></p>
     </td>
