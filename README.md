@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
       <h3 align="center">Joga bonito Store</h3>
         <br />
         <a target="_blank" href="https://github.com/codingmypath/bible-api.git">
-          <img src="https://github.com/codingmypath/README-Assets/blob/main/ezgif.com-gif-maker.gif" width="100%" alt=""/>
+          <img src="https://github.com/codingmypath/README-Assets/blob/main/jb_admin_gif.gif" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">       
