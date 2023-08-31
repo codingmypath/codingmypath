@@ -98,7 +98,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/codingmypath/joga_bonito_store.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="https://jogabonitostore.netlify.app">
+  <a href="https://jogabonitostore.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=221dbd&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
