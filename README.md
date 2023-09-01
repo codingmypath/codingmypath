@@ -71,17 +71,17 @@ You can click the Preview link to take a look at your changes.
  
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Peanut Gallery</h3>
+      <h3 align="center">Joga Bonito Admin</h3>
       <br />
-        <a target="_blank" href="https://peanut-gallery.onrender.com">
-          <img src="https://github.com/codingmypath/README-Assets/blob/main/Peanut-Gallery-gif-maker.gif" width="100%" alt=""/>
+        <a target="_blank" href="https://jogabonitoadmin.netlify.app">
+          <img src="https://github.com/codingmypath/README-Assets/blob/main/jb_admin_gif.gif" width="100%" alt=""/>
         </a>
       <br />
     <p align="center">
-  <a href="https://github.com/codingmypath/peanut-gallery.git" target="_blank">
+  <a href="https://github.com/codingmypath/joga_bonito_admin.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://peanut-gallery.onrender.com/" target="_blank">
+  <a href="https://jogabonitoadmin.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=221dbd&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
