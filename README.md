@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
       <h3 align="center">Joga bonito Store</h3>
         <br />
         <a target="_blank" href="https://github.com/codingmypath/joga_bonito_store.git">
-          <img src="https://github.com/codingmypath/README-Assets/blob/main/jb-store-gif.gif" width="100%" alt=""/>
+          <img src="https://github.com/codingmypath/README-Assets/blob/main/jogab-store-gif.gif" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">       
