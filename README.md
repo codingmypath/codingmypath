@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/codingmypath/restaurant_roulette.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://restaurantroulette.onrender.com/" target="_blank">
+  <a href="https://restaurantroulette-rt.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=221dbd&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
