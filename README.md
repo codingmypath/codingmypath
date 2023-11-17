@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
         <br />
         <p align="center">
   <!-- GitHub Logo button link -->     
-  <a href="https://github.com/codingmypath/restaurant_roulette.git" target="_blank">
+  <a href="https://github.com/codingmypath/restaurant_roulette_react_tw" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=221dbd&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://restaurantroulette-rt.netlify.app" target="_blank">
