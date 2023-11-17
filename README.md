@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
    <td width="50%" valign="top">
       <h3 align="center">Restaurant Roulette App</h3>
         <br />
-      <a target="_blank" href="https://restaurantroulette.onrender.com/">
+      <a target="_blank" href="https://restaurantroulette-rt.netlify.app">
             <img src="https://github.com/codingmypath/README-Assets/blob/main/restaurant-roulette2.gif" width="100%"  alt=""/>
         </a>
         <br />
