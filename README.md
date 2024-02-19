@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
       <h3 align="center">Animo App</h3>
         <br />
         <a target="_blank" href="https://github.com/codingmypath/animo-react.git">
-            <img src="https://github.com/codingmypath/README-Assets/blob/main/animo-gif.gif" width="100%" alt="Animo website gif"/>
+            <img src="https://github.com/codingmypath/README-Assets/blob/main/animo-react-gif.gif" width="100%" alt="Animo website gif"/>
         </a>
         <br />
         <p align="center">
